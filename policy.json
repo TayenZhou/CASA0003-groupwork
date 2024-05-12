@@ -1,0 +1,69 @@
+[
+  {
+    "date": "2020-09",
+    "changes": [
+      {"state": "national", "policy": "National Fright Strategic Plan(NFSP)"}
+    ]
+  },
+  {
+    "date": "2021-08",
+    "changes": [
+      {"state": "national", "policy": "Clean Trucks Plan"}
+    ]
+  },
+  {
+    "date": "2015-07",
+    "changes": [
+      {"state": "California", "policy": "The California Sustainable Freight Action Plan"}
+    ]
+  },
+  {
+    "date": "2021-12",
+    "changes": [
+      {"state": "national", "policy": "Federal Sustainable Plan"},
+      {"state": "New York", "policy": "Delivering Green: a vision for a sustainable freight networking serving New York City"}
+    ]
+  },
+  {
+    "date": "2014-11",
+    "changes": [
+      {"state": "New York", "policy": "Green Freight Goes Global: Developing a Global Green Freight Action Plan"}
+    ]
+  },
+  {
+    "date": "2019-07",
+    "changes": [
+      {"state": "New York", "policy": "Climate Leadership and Community Protection Act(CLCPA)"}
+    ]
+  },
+  {
+    "date": "2021-11",
+    "changes": [
+      {"state": "national", "policy": "Infrastructure Investment and Jobs Act"}
+    ]
+  },
+  {
+    "date": "2022-02",
+    "changes": [
+      {"state": "Texas", "policy": "Texas Connected Freight Corridors: A Sustainable Connected Vehicle Deployment"}
+    ]
+  },
+  {
+    "date": "2023-12",
+    "changes": [
+      {"state": "Texas", "policy": "Texas Freight Plan"}
+    ]
+  },
+  {
+    "date": "2019-01",
+    "changes": [
+      {"state": "Pennsylvania", "policy": "Vehicle Carbon Reduction and Efficiency (Low Carbon Fleet Policy)"}
+    ]
+  },
+  {
+    "date": "2023-05",
+    "changes": [
+      {"state": "Pennsylvania", "policy": "Pennsylvania 2045 Freight Movement Plan"}
+    ]
+  }
+]
